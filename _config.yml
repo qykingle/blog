@@ -77,7 +77,7 @@ google_analytics: UA-90169826-1
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:qykingle/memedaqyk.github.io.git
+  repo: git@github.com:qykingle/qykingle.github.io.git
 feed:
   type: atom
   path: atom.xml

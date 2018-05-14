@@ -1,5 +1,5 @@
 ---
-title: - -Pandas库入门笔记.md
+title: Pandas库入门笔记.md
 date: 2017-05-27 16:27:24
 tags: [python , pandas] 
 ---
